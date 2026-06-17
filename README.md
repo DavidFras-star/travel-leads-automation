@@ -1,2 +1,1 @@
-# travel-leads-automation-assistant
-An AI-assisted workflow for travel agents that collects client trip information, processes it through an AI assistant, and logs structured lead details into a spreadsheet for follow-up.
+AI assistant workflow for travel agents that intakes client trip information and logs structured leads into a spreadsheet
